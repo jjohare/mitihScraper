@@ -1,0 +1,285 @@
+AI Companies
+AI Risks
+AI Video
+AI as a step function
+AI companions
+AI diagram tools
+Accessibility
+Accounts
+Advice for developing GenAI
+Agentic Metaverse for Global Creatives
+Agentic Mycelia
+Agents
+Ai in Games
+Algorithmic Bias and Variance
+AnimateDiff
+Apple
+Artificial Intelligence
+Artificial Superintelligence
+Assets adjacent to nostr
+Attention
+BTC Layer 3
+Banodoco
+Barton Road Changes
+Base models
+Bio Terror
+Bitcoin As Money
+Bitcoin ETF
+Bitcoin Environmental Issues
+Bitcoin Mining and Energy
+Bitcoin Technical Overview
+Bitcoin Value Proposition
+Bitcoin related links
+Bitcoin
+Blender
+Blockchain
+CBDCs
+California AI bill
+Cashu
+ChatGPT
+Chatbots
+Checkpoints
+Claude
+Client side DCO
+Coding support
+Cognitive AI
+Comfy UI for Fashion and Brands
+ComfyUI
+ComfyUIClient
+ComfyWorkFlows
+Comparison of GPT4 and Gemini Ultra
+Comparison of SDXL and Midjourney v6
+Competition in AI
+Constitutional AI
+Contracts and jobs
+Controlnet and similar
+Convergence
+Cortex Agent
+Courses and Training
+Crypto Legal from DigiSoc
+Cyber Security and Military
+Cyber security and Cryptography
+DAO
+DPO
+Dall-e
+Daresbury Data Conference
+Death of the Internet
+Decentralised Web
+Decentralised file storage
+Deep Decks
+Deepfakes and fraudulent content
+Deepmind
+Definitions and frameworks for Metaverse
+Delivery Planning
+Depth Estimation
+Diagrams as Code
+Diffusion Models
+Digital Asset Risks
+Digital Objects
+Disruption
+Distributed Identity
+Docker
+Dr John O'Hare
+EU AI Act
+Economics
+Education
+Embodied Minds
+Emerging tech stack
+Empathetic AI
+Equity
+Ethereum
+Evaluation and leaderboards
+Face Swap
+Facebook Meta
+Fashion
+Flowise
+Fooocus
+Function Calling
+Funding (active and available)
+GANs
+GPT Engineer
+GPTs and Custom Assistants
+Gaussian splatting and Similar
+Gemini
+Geopolitical hot takes
+Global Inequality
+Gold
+Google cloud skills boost
+Google
+Grok
+Groq
+HOST January 17th Presentation
+Hardware and Edge
+Human tracking and SLAM capture
+Human vs AI
+Humans, Avatars , Character
+Hyper personalisation
+IPAdapter
+Image and video Restoration
+Infrastructure
+Inpainting
+Instant value settlement
+Introduction
+Jailbreaking
+KOHYA Dreambooth and similar
+Kelly Drecourt
+Knowhere
+Knowledge Graphing
+Landscape
+Landvættir
+Large language models
+Layoff tracker and threatened roles
+Lead Poisoning Hypothesis
+Lies, Damn Lies, and Statistics
+Lightning and Similar L2
+Link Preview
+Llama
+LoRA
+Location Based Experience
+Logseq
+MITIH bid assessment
+MITIH
+MS Phi models
+Machine Learning
+Medical AI
+Meta AR engine
+Metaverse Ontology
+Metaverse and Spatial Risks
+Metaverse and Telecollaboration
+Metaverse as Markets
+Metaverse governance and safeguarding
+Microsoft CoPilot
+Microsoft Work Trends Impact 2024
+Midjourney
+Misc Twitter Links
+Mistral and Mixtral
+Mistral
+Mixed reality
+Mixture of Experts
+Model Optimisation and Performance
+Model Training
+Money from DigiSoc
+Money
+Motion Capture
+Music and audio
+NVIDIA Omniverse
+National Industrial Centre for Virtual Environments
+Non transformer approaches
+Norbert Wiener
+Octave System
+Omniverse Ontology
+Ontology conversation with AIs
+Open Generative AI tools
+OpenAI Whisper
+OpenAI
+Ophan Twitter Links
+Overview of Machine Learning Techniques
+PDF
+Paper Writing
+ParentsGuideToAI
+Patent
+Pika
+PlayerTwo
+Politics, Law, Privacy
+Pose estimation
+Product Design
+Product and Risk Management
+Prompt Engineering
+Proprietary AI Video
+Proprietary Image Generation
+Proprietary Large Language Models
+Proprietary Video VP & 3D
+Public
+Queries
+RAG
+RGB
+Research Tools
+Revision List
+Robin Hanson
+Robotics
+Role reorg
+SLAM
+Safety and alignment
+Sam Hammond
+Sampling
+Scene Capture and Reconstruction
+Seals
+Segmentation and Identification
+Semantic Web
+Silo AI
+Singularity
+Social contract and jobs
+Solid
+Some legacy Linked-JSON
+Soon-Next-Later (AI futurology)
+Spatial AI Associate
+Spatial Computing
+Spatial Web
+Speech and voice
+Stable Coins
+Stable Diffusion Training
+Stable Diffusion
+State of the art in AI
+Surveillance
+TODO
+Taproot assets
+Tax
+Technical History (extended CV)
+Telethrone
+Text to 3D and 4D
+The Cognitive Revolution
+Tim Reutermann
+Time Series Forecasting
+Tips and Tricks
+Tokenization
+Training Material
+Training and fine tuning
+Transformers
+Translation
+Trust and Safety
+UCU
+Unreal
+Unsorted Links
+Update Cycle
+Upscaling
+Valsoft
+Variational Autoencoders
+Vesuvian Scrolls
+Video Processing
+Vircadia
+Virscapes
+Virtual Production
+Vision Pro
+Visionflow
+Voice to CAD
+Watermarks
+Web Bookmarks
+Web3
+WebDev and Consumer Tooling
+birthday
+book to be processed
+collaborative
+contents
+copyright
+cypherpunk
+ecash
+experiment
+flossverse
+flyp and nostr vert
+heatmap
+json
+keybase import
+krita
+latent space
+legacy media
+license
+mermaid
+misc podcast onboarding
+multimodal
+nostr
+ollama
+p(doom)
+qlora
+rework based on gpt
+license
+webid
